@@ -31,7 +31,9 @@
     D. false, === considers if types are different
     E. true, Boolean(2) is true, so true === true
 15. == does the type conversion before comparison, === compares values AND operands
+    
 17: [2, 4, 6] will be the result. For each element in the array, doSomething will be called on that number, which doubles it. These values will be pushed to a new array. Thus, the final array will be doubled the values of each element, or [2, 4, 6].
+
 19:
     1
     4
